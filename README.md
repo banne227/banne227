@@ -15,13 +15,6 @@
 
 ---
 
-### 🏆 GitHub Profile
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=banne227&theme=gruvbox&no-frame=true&row=1" alt="github trophies"/>
-</p>
-
----
-
 ### 🛠️ Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
@@ -37,5 +30,5 @@
 ---
 
 ### 📊 GitHub Stats
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zibgame&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=banne227&theme=github_dark"/>
 
