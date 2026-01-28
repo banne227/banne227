@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 🔭 Currently working on **Cub3D** (3D rendering project in C)
 - 🌱 Learning more about **systems programming, algorithms, and Linux**
-- 👨‍💻 All my projects: [https://github.com/banne227?tab=repositories]([https://github.com/banne227](https://github.com/banne227?tab=repositories))
+- 👨‍💻 All my projects: [My GitHub repositories](https://github.com/banne227?tab=repositories)
 - 📫 Contact me at: **baidyanne9@gmail.com**
 
 ---
