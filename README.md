@@ -1,17 +1,9 @@
-<h1 align="center">Hi 👋, I'm Baidy Anne</h1>
+<h1 align="center">I'm Baidy Anne a 42 student</h1>
 <h3 align="center">Computer Science Student & Software Development Enthusiast</h3>
 
 <p align="center">
   Passionate about low-level programming, problem solving, and building efficient applications.
 </p>
-
----
-
-### 🚀 About Me
-- 🔭 Currently working on **Cub3D** (3D rendering project in C)
-- 🌱 Learning more about **systems programming, algorithms, and Linux**
-- 👨‍💻 All my projects: [My GitHub repositories](https://github.com/banne227?tab=repositories)
-- 📫 Contact me at: **baidyanne9@gmail.com**
 
 ---
 
