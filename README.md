@@ -1,42 +1,21 @@
-<h1 align="center">Salut, moi c'est Baidy 👋</h1>
+🇫🇷 **Français** | 🇬🇧 [English](README.en.md)
 
-<p align="center">
-  Étudiant à <strong>École 42</strong> · Futur alternant chez <strong>Inexco Group</strong> (contrôle non destructif — naval, nucléaire, pétrochimie, aéronautique)
-</p>
+# Salut, moi c'est Baidy 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/baïdy-anne"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:baidyannne9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+Étudiant à l'École 42, développeur en formation, bientôt en alternance chez **Inexco Group** (contrôle non destructif) où je vais construire des outils pour les équipes terrain, dont un outil d'analyse de soudures assisté par IA (Anthropic API, vision, few-shot learning).
 
----
+Je me spécialise en **automatisation et IA appliquée à des cas métier concrets** — j'aime résoudre de vrais problèmes plutôt qu'empiler des lignes de code.
 
-### 🎯 En ce moment
+## 🛠️ Stack
 
-- 🔧 Alternance à venir chez **Inexco Group** : conception d'un outil d'analyse de soudures assisté par IA (vision + API, few-shot learning) pour les équipes terrain
-- 🧠 Reinforcement Learning sur **Learn2Slither** (Q-learning, serpent 10x10) — projet 42
-- 🎮 Tech lead sur **ft_transcendence**, jeu multijoueur type Slither.io
+`Python` · `C / C++` · `TypeScript` · `Node.js` · `FastAPI` · `pandas` · APIs d'IA générative (Anthropic, Gemini)
 
-### 🛠️ Stack
+## 🚀 Projets à découvrir
 
-**Langages**
-`C` `C++` `Python` `TypeScript` `JavaScript` 
+- **[ai-assistant](https://github.com/banne227/ai-assistant)** — assistant conversationnel avec réponses en streaming, propulsé par l'API Gemini ([démo en ligne](https://ai-assistant-eiq1.onrender.com))
+- **[rapport-automatise](https://github.com/banne227/rapport-automatise)** — outil CLI qui génère des rapports Excel/PDF automatiquement à partir de données CSV
+- **ft_transcendence** — projet de fin de cursus commun à 42 : jeu multijoueur en temps réel façon Slither.io
 
-**Web & Backend**
-`Node.js` `Socket.io` `MongoDB` `Nginx` `Docker`
+## 📫 Me contacter
 
-**Autres**
-`Chart.js` `Pygame`
-
-### 📌 Projets clés
-
-| Projet | Description |
-|---|---|
-| **ft_transcendence** | Jeu multijoueur en LAN (style Slither.io), chat temps réel, dashboard analytics, IA adverse (FSM), thème rétro Windows XP |
-| **webserv** | Serveur HTTP en C++ avec support CGI (fork/execve/pipe) |
-| **Learn2Slither** | Agent Q-learning pour un serpent en environnement 10x10 |
-| **42 Common Core** | De Libft à minishell, philosophers, ft_irc, miniRT |
-
----
-
-<p align="center"><sub>Basé en France 🇫🇷</sub></p>
+[LinkedIn](https://www.linkedin.com/in/baïdy-anne)
