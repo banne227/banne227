@@ -1,21 +1,26 @@
-🇫🇷 **Français** | 🇬🇧 [English](README.en.md)
-
-# Salut, moi c'est Baidy 👋
-
-Étudiant à l'École 42, développeur en formation, bientôt en alternance chez **Inexco Group** (contrôle non destructif) où je vais construire des outils pour les équipes terrain, dont un outil d'analyse de soudures assisté par IA (Anthropic API, vision, few-shot learning).
-
-Je me spécialise en **automatisation et IA appliquée à des cas métier concrets** — j'aime résoudre de vrais problèmes plutôt qu'empiler des lignes de code.
-
-## 🛠️ Stack
-
-`Python` · `C / C++` · `TypeScript` · `Node.js` · `FastAPI` · `pandas` · APIs d'IA générative (Anthropic, Gemini)
-
-## 🚀 Projets à découvrir
-
-- **[ai-assistant](https://github.com/banne227/ai-assistant)** — assistant conversationnel avec réponses en streaming, propulsé par l'API Gemini ([démo en ligne](https://ai-assistant-eiq1.onrender.com))
-- **[rapport-automatise](https://github.com/banne227/rapport-automatise)** — outil CLI qui génère des rapports Excel/PDF automatiquement à partir de données CSV
-- **ft_transcendence** — projet de fin de cursus commun à 42 : jeu multijoueur en temps réel façon Slither.io
-
-## 📫 Me contacter
-
-[LinkedIn](https://www.linkedin.com/in/baïdy-anne)
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+banne;Welcome+to+my+profile!" alt="Typing SVG" /> </h1> <p align="center"> <img src="https://avatars.githubusercontent.com/u/220498209?u=456c548a4d82a8050f7463b835933fecb2a7fc4a&v=4" width="150" style="border-radius: 50%;" alt="banne" /> </p>
+👨‍💻 About Me
+Passionate developer building awesome things.
+👥 11 followers · 14 following
+🛠️ Languages & Tools
+CC++JavaScriptHTMLCSS
+📊 GitHub Stats
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=banne227&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=banne227&theme=aurora" alt="GitHub Stats" /></picture> </p>
+🚀 Featured Projects
+ft_transcendence JavaScript
+No description provided ⭐ 2 | 🍴 0
+Cub3D C
+No description provided ⭐ 0 | 🍴 0
+Learn2Slither Python
+No description provided ⭐ 0 | 🍴 0
+AI-assistant CSS
+No description provided ⭐ 0 | 🍴 0
+rapport-automatise Python
+No description provided ⭐ 0 | 🍴 0
+webserv C++
+webserv HTTP/1.1 ⭐ 0 | 🍴 0
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=banne227&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=banne227&theme=aurora" alt="banne227 contribution activity" /></picture> </p> <p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=banne227&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/highlights?username=banne227&theme=aurora" alt="banne227 highlights" /></picture> </p>
+🤝 Connect With Me
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=banne227&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=banne227&theme=aurora" alt="banne227 social links" /></picture> </p>
+GitHub
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
