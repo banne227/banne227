@@ -14,7 +14,7 @@ Je me spécialise en **automatisation et IA appliquée à des cas métier concre
 
 - **[ai-assistant](https://github.com/banne227/ai-assistant)** — assistant conversationnel avec réponses en streaming, propulsé par l'API Gemini ([démo en ligne](https://ai-assistant-eiq1.onrender.com))
 - **[rapport-automatise](https://github.com/banne227/rapport-automatise)** — outil CLI qui génère des rapports Excel/PDF automatiquement à partir de données CSV
-- **ft_transcendence** — projet de fin de cursus commun à 42 : jeu multijoueur en temps réel façon Slither.io
+- **[ft_transcendence](https://github.com/banne227/ft_transcendance)** — projet de fin de cursus commun à 42 : jeu multijoueur en temps réel façon Slither.io
 
 ## 📫 Me contacter
 
