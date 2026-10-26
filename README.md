@@ -20,5 +20,5 @@ Développeur full-stack en alternance chez **Inexco Group** et étudiant à l'É
 
 ## 📫 Me contacter
 
-🌐 Portfolio : [banne227.github.io](https://banne227.github.io)
+[🌐 Portfolio:](banne227.github.io) · (https://banne227.github.io)
 [LinkedIn](https://www.linkedin.com/in/baïdy-anne) · baidyanne9@gmail.com
