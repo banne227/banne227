@@ -20,5 +20,5 @@ Full-stack developer on a work-study program at **Inexco Group** and student at 
 
 ## 📫 Get in touch
 
-[🌐 Portfolio:](banne227.github.io) · (https://banne227.github.io)
+[🌐 Portfolio:](https://banne227.github.io) · (https://banne227.github.io)
 [LinkedIn](https://www.linkedin.com/in/baïdy-anne) · baidyanne9@gmail.com
